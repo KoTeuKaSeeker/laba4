@@ -114,7 +114,7 @@ print(repr(data), "\n")
 
 #__str__()
 print(data, "\n")
-
+#asd
 #Итератор
 for item in iter(data):
         print(item)
